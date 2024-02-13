@@ -7,7 +7,7 @@
 **Francium CF Backup - https://discord.gg/8rR4qHjPHe**
 
 # Why?
-Ablue allowed me to so and after like 2 months i decided to drop JAR with a implemented locker so if i decide (or the devs) to make the jar unusable then yk.
+Ablue allowed me to leak so and after like 2 months i decided to drop JAR with a implemented locker so if i decide (or the devs) to make the jar unusable then yk.
 
 # How To Use
 1. Download the Fabric installer from here, open it and choose Minecraft 1.20.4 & Fabric Loader 0.15.6
