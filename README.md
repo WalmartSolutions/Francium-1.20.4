@@ -2,7 +2,8 @@
 
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
-**Francium CF - https://discord.gg/dx9ware**
+**Francium CF - https://discord.gg/nZ6umnub59**
+**Francium CF Backup - https://discord.gg/8rR4qHjPHe**
 
 # Why?
 Ablue allowed me to so and after like 2 months i decided to drop JAR with a implemented locker so if i decide (or the devs) to make the jar unusable then yk.
