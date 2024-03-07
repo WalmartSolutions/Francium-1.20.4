@@ -22,4 +22,4 @@ yaimcool (Ablue) - Developer of the Client.
 ??? - Jar provider.
 
 # GUI
-![image](https://media.discordapp.net/attachments/1173320950503190688/1206973074931585124/dY77uaA.png?ex=65ddf445&is=65cb7f45&hm=0757f56a6f614773136bbedb883c5f84c5c6f972b6cc01796dc7c90c2e83bdb1&=&format=webp&quality=lossless&width=1662&height=934)
+![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/francium-gui.png?raw=true)
